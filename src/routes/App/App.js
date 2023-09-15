@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Zenx5 (papi)
+          Learn React with Zenx5
         </a>
       </header>
     </div>
