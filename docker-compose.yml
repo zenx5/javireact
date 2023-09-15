@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    build: .
+    container_name: javier_shop
+    volumes:
+      - ./:/app
+    ports:
+      - "3000:3000"
